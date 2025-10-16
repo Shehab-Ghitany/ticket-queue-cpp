@@ -36,7 +36,7 @@ keeping the system modular and organized.
 ## Screenshots:
 
 Queue Info Tickets:
-![Queue Info Tickets](Screenshots/queue-info-tickets.png)
+![Queue Info Tickets](screenshots/queue-info-tickets.png)
 
 ---
 
