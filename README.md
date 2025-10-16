@@ -35,9 +35,8 @@ keeping the system modular and organized.
 
 ## Screenshots:
 
-<p align="center">
-  <img src="screenshots/queue-info-tickets.png">
-</p>
+Queue Info Tickets:
+![Queue Info Tickets](Screenshots/queue-info-tickets.png)
 
 ---
 
